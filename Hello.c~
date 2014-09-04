@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main(){
-
+<<<<<<< Updated upstream
 	//Rafael Picanha
-
+=======
 	//samuel	
-
+>>>>>>> Stashed changes
 	printf("Hello Mundo! Bacon Rulez!\n");
 	return 0;
 }
